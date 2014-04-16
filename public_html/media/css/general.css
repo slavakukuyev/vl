@@ -1,0 +1,17 @@
+.btn.btn-inverse.logout{
+    float:right;
+    margin-left: 22px;
+}
+.actions{
+    margin-top: 10px;
+    font-weight: bold;
+    color:blue;
+}
+
+#actorsSelect{
+    height:200px;
+}
+
+#categoriesSelect{
+    height:110px;
+}
